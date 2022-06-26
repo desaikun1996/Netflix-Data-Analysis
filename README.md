@@ -1,2 +1,3 @@
 # Netflix Data Analysis
- Designed and developed a database application enabling end-users to view and book movie tickets. Constructed a well-defined and systematic ERD for the database, followed by developing SQL objects like Stored Procedures, Functions, Triggers, Views, and Indexes, enabling end-to-end functioning of the application. Acquired insights into many parts of the system by visualizing data from views using graphs, bar plots, histograms, line charts, and dashboards with the help of Tableau.
+ Devised an in-depth analysis and visualization of Netflix Data by analyzing the features and trends in the dataset. Furthermore, represented pictorial data using charts like histograms, pie-chart, line graph, stacked bar graph, scatter plot. Finally, utilized this analysis to perform accurate sentiment analysis and recommendations over Netflix data.
+
